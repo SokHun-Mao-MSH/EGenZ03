@@ -16,8 +16,8 @@ def add(a, b):
     pass
 
 def subtract(a, b):
-    result = a - b 
-    log_action("subtract", result)
+    # result = a - b 
+    # log_action("subtract", result)
     # return result
     pass
 
