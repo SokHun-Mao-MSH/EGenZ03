@@ -21,16 +21,15 @@ def subtract(a, b):
     return result
     pass
 
-
 # ===========================================
 
 
 #  FEATURE 2
 
 def multiply(a, b):
-    # result = a * b
-    # log_action("multiply", result)
-    # return result
+    result = a * b
+    log_action("multiply", result)
+    return result
     pass
 
 def divide(a, b):
