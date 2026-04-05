@@ -10,9 +10,9 @@ from logger import log_action
 # FEATURE 1
 
 def add(a, b):
-    # result = a + b
-    # log_action("add", result)
-    # return result
+    result = a + b
+    log_action("add", result)
+    return result
     pass
 
 def subtract(a, b):
